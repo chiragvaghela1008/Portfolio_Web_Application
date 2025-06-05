@@ -56,7 +56,7 @@ const About = () => {
           </p>
 
           {/*resume button*/}
-          <a href='https://drive.google.com/file/d/161khOVLflZpCkTNpt8xZaYqz9oFDlC-p/view?usp=sharing'
+          <a href='https://drive.google.com/file/d/1vXe0bCbFfzuDoVCfsRqlKdqC7O-N0GGv/view'
             target='_blank'
             rel='noopener noreferrer'
             className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scaler'
